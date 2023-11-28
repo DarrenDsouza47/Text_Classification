@@ -1,7 +1,6 @@
 # Text_Classification
 
 Text Classification of Emails
-
 The code of this notebook performs a simple text classification of emails based on labelled dataset ,we use bert to produce sentence embeddings and tensorflow keras for developing our model
 
 Data:
